@@ -1,0 +1,9 @@
+BYTE REVERSE
+  real    0m1.207s
+  user    0m0.120s
+  sys     0m0.178s
+
+BLOCK REVERSE
+  real    0m0.987s
+  user    0m0.013s
+  sys     0m0.029s
